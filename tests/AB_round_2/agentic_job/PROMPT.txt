@@ -1,0 +1,5 @@
+Reconstruct the entire RUGGED-H6000 portable three-panel rechargeable work lamp from the supplied FRONT, BACK, SIDE and ISO views plus the engineering drawing. The views may be synthetic visualizations with inconsistent camera geometry.
+
+Create separate editable solids for the central housing and optical reflector, front orange bumpers, left/right hinged auxiliary LED lamps, rear detachable power pack, top handle with ribbed orange grip, two support pivots and U-shaped base stand. Match external proportions and mechanical silhouettes before small details. Keep straight edges straight; use controlled tangent arcs and lofts only where justified. Maintain a real reflector cavity and LED matrix, not a flat panel.
+
+Label dimensions not directly shown as ESTIMATED. The drawing proposes overall open width 532 mm, height 292 mm and depth 195 mm; record any conflict with rendered views instead of forcing inconsistent views to match. Return editable source, parameter JSON, STEP, GLB, four-view renders, run report, missing-feature list and valid STEP solids. Do not claim manufacturing-grade accuracy without measured dimensions.
