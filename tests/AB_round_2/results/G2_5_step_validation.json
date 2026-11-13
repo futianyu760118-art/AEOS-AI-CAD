@@ -1,0 +1,11 @@
+{
+  "file": "RUGGED_H6000_G2_5_occ_controlled_reflector.step",
+  "read_status": "ok",
+  "transferred_roots": 1,
+  "solids": 79,
+  "valid_solids": 79,
+  "all_valid": true,
+  "bbox_xyz_mm": [259.85, 203.79, 92.8],
+  "total_volume_mm3": 1931795.27,
+  "note": "Valid STEP topology does not prove design or dimensional accuracy."
+}
