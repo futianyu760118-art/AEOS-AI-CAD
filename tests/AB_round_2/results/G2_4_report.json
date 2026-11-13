@@ -1,0 +1,16 @@
+{
+  "version": "G2.4",
+  "metrics": {
+    "orange_left_iou": 0.9767,
+    "orange_right_iou": 0.9776,
+    "led_yellow_region_iou": 0.3171,
+    "main_housing_ssim": 0.5046,
+    "reflector_ssim": 0.6082,
+    "reflector_edge_distance": {
+      "symmetric_chamfer_px": 4.59,
+      "reference_edge_pixels": 5395,
+      "candidate_edge_pixels": 6034
+    }
+  },
+  "note": "Legacy baseline only; not a new img2cad or Agentic CAD result. Image metrics are not CAD geometry accuracy."
+}
